@@ -10,3 +10,6 @@ venv/
 
 # Python
 __pycache__/
+
+# Dataset
+sign_language_mnist/
